@@ -2671,7 +2671,7 @@
   {
     "id": 2080,
     "Key": "xtp",
-    "enUS": "Mage Plate",
+    "enUS": " *** Mage Plate *** ",
     "zhTW": "法師鎧甲",
     "deDE": "[fs]Magierplattenrüstung",
     "esES": "[fs]Coraza de mago",
@@ -5119,7 +5119,7 @@
   {
     "id": 2236,
     "Key": "gcv",
-    "enUS": "",
+    "enUS": "Chipped Amethyst",
     "zhTW": "碎裂紫寶石",
     "deDE": "lädierter Amethyst",
     "esES": "Amatista fragmentada",
@@ -5136,7 +5136,7 @@
   {
     "id": 2237,
     "Key": "gfv",
-    "enUS": "",
+    "enUS": "Flawed Amethyst",
     "zhTW": "瑕疵紫寶石",
     "deDE": "fehlerhafter Amethyst",
     "esES": "Amatista estropeada",
@@ -5153,7 +5153,7 @@
   {
     "id": 2238,
     "Key": "gsv",
-    "enUS": "",
+    "enUS": "Amethyst",
     "zhTW": "紫寶石",
     "deDE": "Amethyst",
     "esES": "Amatista",
@@ -5204,7 +5204,7 @@
   {
     "id": 2241,
     "Key": "gcy",
-    "enUS": "",
+    "enUS": "Chipped Topaz",
     "zhTW": "碎裂黃寶石",
     "deDE": "lädierter Topas",
     "esES": "Topacio fragmentado",
@@ -5221,7 +5221,7 @@
   {
     "id": 2242,
     "Key": "gfy",
-    "enUS": "",
+    "enUS": "Flawed Topaz",
     "zhTW": "瑕疵黃寶石",
     "deDE": "fehlerhafter Topas",
     "esES": "Topacio estropeado",
@@ -5238,7 +5238,7 @@
   {
     "id": 2243,
     "Key": "gsy",
-    "enUS": "",
+    "enUS": "Topaz",
     "zhTW": "黃寶石",
     "deDE": "Topas",
     "esES": "Topacio",
@@ -5289,7 +5289,7 @@
   {
     "id": 2246,
     "Key": "gcb",
-    "enUS": "",
+    "enUS": "Chipped Sapphire",
     "zhTW": "碎裂藍寶石",
     "deDE": "lädierter Saphir",
     "esES": "Zafiro fragmentado",
@@ -5306,7 +5306,7 @@
   {
     "id": 2247,
     "Key": "gfb",
-    "enUS": "",
+    "enUS": "Flawed Sapphire",
     "zhTW": "瑕疵藍寶石",
     "deDE": "fehlerhafter Saphir",
     "esES": "Zafiro estropeado",
@@ -5357,7 +5357,7 @@
   {
     "id": 2251,
     "Key": "gcg",
-    "enUS": "",
+    "enUS": "Chipped Emerald",
     "zhTW": "碎裂綠寶石",
     "deDE": "lädierter Smaragd",
     "esES": "Esmeralda fragmentada",
@@ -5374,7 +5374,7 @@
   {
     "id": 2252,
     "Key": "gfg",
-    "enUS": "",
+    "enUS": "Flawed Emerald",
     "zhTW": "瑕疵綠寶石",
     "deDE": "fehlerhafter Smaragd",
     "esES": "Esmeralda estropeada",
@@ -5425,7 +5425,7 @@
   {
     "id": 2256,
     "Key": "gcr",
-    "enUS": "",
+    "enUS": "Chipped Ruby",
     "zhTW": "碎裂紅寶石",
     "deDE": "lädierter Rubin",
     "esES": "Rubí fragmentado",
@@ -5442,7 +5442,7 @@
   {
     "id": 2257,
     "Key": "gfr",
-    "enUS": "",
+    "enUS": "Flawed Ruby",
     "zhTW": "瑕疵紅寶石",
     "deDE": "fehlerhafter Rubin",
     "esES": "Rubí estropeado",
@@ -5493,7 +5493,7 @@
   {
     "id": 2261,
     "Key": "gcw",
-    "enUS": "",
+    "enUS": "Chipped Diamond",
     "zhTW": "碎裂鑽石",
     "deDE": "lädierter Diamant",
     "esES": "Diamante fragmentado",
@@ -5510,7 +5510,7 @@
   {
     "id": 2262,
     "Key": "gfw",
-    "enUS": "",
+    "enUS": "Flawed Diamond",
     "zhTW": "瑕疵鑽石",
     "deDE": "fehlerhafter Diamant",
     "esES": "Diamante estropeado",
@@ -8416,7 +8416,7 @@
   },
   {
     "id": 2550,
-    "Key": "Diadem",
+    "Key": " *** Diadem *** ",
     "enUS": "Diadem",
     "zhTW": "權冠",
     "deDE": "Diadem",
@@ -12446,13 +12446,13 @@
   {
     "id": 11164,
     "Key": "tes",
-    "enUS": "Andy Essence",
+    "enUS": "Twisted Essence of Suffering",
     "zhTW": "扭曲的苦怨精華",
     "deDE": "Verdorbene Essenz des Leidens",
     "esES": "Esencia del sufrimiento retorcida",
     "frFR": "Essence tordue de souffrance",
     "itIT": "Essenza Perversa della Sofferenza",
-    "koKR": "안다리엘의 정수",
+    "koKR": "뒤틀린 고통의 정수",
     "plPL": "Spaczona Esencja Cierpienia",
     "esMX": "[fs]Esencia retorcida de sufrimiento",
     "jaJP": "捻じれた苦痛のエッセンス",
@@ -12463,13 +12463,13 @@
   {
     "id": 11165,
     "Key": "ceh",
-    "enUS": "Meph Essence",
+    "enUS": "Charged Essence of Hatred",
     "zhTW": "充盈的憎恨精華",
     "deDE": "Geladene Essenz des Hasses",
     "esES": "Esencia del odio cargada",
     "frFR": "Essence chargée de haine",
     "itIT": "Essenza Elettrica dell'Odio",
-    "koKR": "메피스토의 정수",
+    "koKR": "차오른 증오의 정수",
     "plPL": "Wzmocniona Esencja Nienawiści",
     "esMX": "[fs]Esencia cargada de odio",
     "jaJP": "蓄積した憎悪のエッセンス",
@@ -15336,7 +15336,7 @@
   {
     "id": 20348,
     "Key": "uui",
-    "enUS": "Dusk Shroud",
+    "enUS": " *** Dusk Shroud *** ",
     "zhTW": "灰暮罩衣",
     "deDE": "[ms]Dämmerschleier",
     "esES": "[fs]Mortaja del crepúsculo",
@@ -15523,7 +15523,7 @@
   {
     "id": 20359,
     "Key": "uth",
-    "enUS": "Lacquered Plate",
+    "enUS": " *** Lacquered Plate *** ",
     "zhTW": "漆護鎧甲",
     "deDE": "[fs]Lackierte Plattenrüstung",
     "esES": "[fs]Coraza lacada",
@@ -15557,7 +15557,7 @@
   {
     "id": 20361,
     "Key": "uar",
-    "enUS": "Sacred Armor",
+    "enUS": " *** Sacred Armor *** ",
     "zhTW": "神聖戰甲",
     "deDE": "[fs]Heilige Rüstung",
     "esES": "[fs]Armadura sacra",
@@ -15574,7 +15574,7 @@
   {
     "id": 20362,
     "Key": "utp",
-    "enUS": "Archon Plate",
+    "enUS": " *** Archon Plate *** ",
     "zhTW": "統御者鎧甲",
     "deDE": "[fs]Archonplattenrüstung",
     "esES": "[fs]Coraza de arconte",
