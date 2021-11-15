@@ -1141,7 +1141,7 @@
   {
     "id": 1989,
     "Key": "gwn",
-    "enUS": "Grim Wand",
+    "enUS": " --- Grim Wand --- ",
     "zhTW": "陰森魔杖",
     "deDE": "[ms]Schlagstab",
     "esES": "[fs]Vara lúgubre",
@@ -2671,7 +2671,7 @@
   {
     "id": 2080,
     "Key": "xtp",
-    "enUS": " *** Mage Plate *** ",
+    "enUS": " --- Mage Plate --- ",
     "zhTW": "法師鎧甲",
     "deDE": "[fs]Magierplattenrüstung",
     "esES": "[fs]Coraza de mago",
@@ -8416,8 +8416,8 @@
   },
   {
     "id": 2550,
-    "Key": " *** Diadem *** ",
-    "enUS": "Diadem",
+    "Key": "Diadem",
+    "enUS": " --- Diadem --- ",
     "zhTW": "權冠",
     "deDE": "Diadem",
     "esES": "[fs]Diadema",
@@ -13330,7 +13330,7 @@
   {
     "id": 20230,
     "Key": "7cr",
-    "enUS": "Phase Blade",
+    "enUS": " --- Phase Blade --- ",
     "zhTW": "幻化之刃",
     "deDE": "[fs]Phasenklinge",
     "esES": "[fs]Espada de fase",
@@ -13840,7 +13840,7 @@
   {
     "id": 20260,
     "Key": "7s8",
-    "enUS": "Thresher",
+    "enUS": " --- Thresher --- ",
     "zhTW": "斬鐮",
     "deDE": "[ms]Drescher",
     "esES": "[fs]Trilladora",
@@ -13857,7 +13857,7 @@
   {
     "id": 20261,
     "Key": "7pa",
-    "enUS": "Cryptic Axe",
+    "enUS": " --- Cryptic Axe --- ",
     "zhTW": "絕秘斧",
     "deDE": "[fs]Rätselhafte Axt",
     "esES": "[fs]Hacha críptica",
@@ -13874,7 +13874,7 @@
   {
     "id": 20262,
     "Key": "7h7",
-    "enUS": "Great Poleaxe",
+    "enUS": " --- Great Poleaxe --- ",
     "zhTW": "巨型長柄斧",
     "deDE": "[fs]Große Stangenaxt",
     "esES": "[fs]Gran hacha larga",
@@ -13891,7 +13891,7 @@
   {
     "id": 20263,
     "Key": "7wc",
-    "enUS": "Giant Thresher",
+    "enUS": " --- Giant Thresher --- ",
     "zhTW": "巨型斬鐮",
     "deDE": "[ms]Riesendrescher",
     "esES": "[fs]Trilladora gigante",
@@ -14112,7 +14112,7 @@
   {
     "id": 20276,
     "Key": "6lw",
-    "enUS": "Hydra Bow",
+    "enUS": " --- Hydra Bow --- ",
     "zhTW": "多頭蛇弓",
     "deDE": "[ms]Hydrabogen",
     "esES": "[ms]Arco de hidra",
@@ -14724,7 +14724,7 @@
   {
     "id": 20312,
     "Key": "amb",
-    "enUS": "Matriarchal Bow",
+    "enUS": " --- Matriarchal Bow --- ",
     "zhTW": "女傑之弓",
     "deDE": "[ms]Matriarchenbogen",
     "esES": "[ms]Arco matriarcal",
@@ -14741,7 +14741,7 @@
   {
     "id": 20313,
     "Key": "amc",
-    "enUS": "Grand Matron Bow",
+    "enUS": " --- Grand Matron Bow --- ",
     "zhTW": "主母之弓",
     "deDE": "[ms]Großer Matronenbogen",
     "esES": "[ms]Arco de la gran matrona",
@@ -15336,7 +15336,7 @@
   {
     "id": 20348,
     "Key": "uui",
-    "enUS": " *** Dusk Shroud *** ",
+    "enUS": " --- Dusk Shroud --- ",
     "zhTW": "灰暮罩衣",
     "deDE": "[ms]Dämmerschleier",
     "esES": "[fs]Mortaja del crepúsculo",
@@ -15489,7 +15489,7 @@
   {
     "id": 20357,
     "Key": "ult",
-    "enUS": "Hellforge Plate",
+    "enUS": " --- Hellforge Plate --- ",
     "zhTW": "地獄鍛甲",
     "deDE": "[fs]Höllenschmiedenplattenrüstung",
     "esES": "[fs]Coraza de la Fragua del Infierno",
@@ -15523,7 +15523,7 @@
   {
     "id": 20359,
     "Key": "uth",
-    "enUS": " *** Lacquered Plate *** ",
+    "enUS": " --- Lacquered Plate --- ",
     "zhTW": "漆護鎧甲",
     "deDE": "[fs]Lackierte Plattenrüstung",
     "esES": "[fs]Coraza lacada",
@@ -15540,7 +15540,7 @@
   {
     "id": 20360,
     "Key": "uul",
-    "enUS": "Shadow Plate",
+    "enUS": " --- Shadow Plate --- ",
     "zhTW": "暗影鎧甲",
     "deDE": "[fs]Schattenplattenrüstung",
     "esES": "[fs]Coraza sombría",
@@ -15557,7 +15557,7 @@
   {
     "id": 20361,
     "Key": "uar",
-    "enUS": " *** Sacred Armor *** ",
+    "enUS": " --- Sacred Armor --- ",
     "zhTW": "神聖戰甲",
     "deDE": "[fs]Heilige Rüstung",
     "esES": "[fs]Armadura sacra",
@@ -15574,7 +15574,7 @@
   {
     "id": 20362,
     "Key": "utp",
-    "enUS": " *** Archon Plate *** ",
+    "enUS": " --- Archon Plate --- ",
     "zhTW": "統御者鎧甲",
     "deDE": "[fs]Archonplattenrüstung",
     "esES": "[fs]Coraza de arconte",
@@ -16509,7 +16509,7 @@
   {
     "id": 20417,
     "Key": "pab",
-    "enUS": "Sacred Targe",
+    "enUS": " --- Sacred Targe ***",
     "zhTW": "神聖小盾",
     "deDE": "[fs]Heilige Targe",
     "esES": "[fs]Adarga sacra",
@@ -16560,7 +16560,7 @@
   {
     "id": 20420,
     "Key": "paf",
-    "enUS": "Vortex Shield",
+    "enUS": " --- Vortex Shield --- ",
     "zhTW": "渦旋盾",
     "deDE": "[ms]Wirbelschild",
     "esES": "[ms]Escudo vórtice",

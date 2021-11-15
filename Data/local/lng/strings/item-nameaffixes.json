@@ -1413,7 +1413,7 @@
   {
     "id": 1808,
     "Key": "Amber",
-    "enUS": "Amber",
+    "enUS": "Amber *** ",
     "zhTW": "琥珀",
     "deDE": "[fs]hellbraune[ms]hellbrauner[ns]hellbraunes[pl]hellbraune",
     "esES": "[fs]ámbar[ms]ámbar[fp]ámbar[mp]ámbar",
@@ -2178,7 +2178,7 @@
   {
     "id": 1855,
     "Key": "of the Apprentice",
-    "enUS": "of the Apprentice",
+    "enUS": "of the Apprentice ***",
     "zhTW": "學徒之",
     "deDE": "des Lehrlings",
     "esES": "del aprendiz",
@@ -9063,7 +9063,7 @@
   {
     "id": 20748,
     "Key": "Cunning",
-    "enUS": "Cunning",
+    "enUS": "!!! Cunning",
     "zhTW": "狡猾",
     "deDE": "[ms]listiger[fs]listige[ns]listiges[pl]listige",
     "esES": "[fs]taimada[ms]taimado[fp]taimadas[mp]taimados",
@@ -10066,7 +10066,7 @@
   {
     "id": 20807,
     "Key": "Jeweler's",
-    "enUS": "Jeweler's",
+    "enUS": "Jeweler's *** ",
     "zhTW": "珠寶匠",
     "deDE": "[ms]prunkvoller[fs]prunkvolle[ns]prunkvolles[pl]prunkvolle",
     "esES": "[fs]de joyero[ms]de joyero[fp]de joyero[mp]de joyero",
@@ -13551,7 +13551,7 @@
   {
     "id": 21012,
     "Key": "of Fervor",
-    "enUS": "of Fervor",
+    "enUS": "of Fervor *** ",
     "zhTW": "白熱之",
     "deDE": "des Eifers",
     "esES": "de fervor",
