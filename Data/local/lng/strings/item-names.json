@@ -2416,7 +2416,7 @@
   {
     "id": 2064,
     "Key": "xhb",
-    "enUS": "War Boots",
+    "enUS": " *** War Boots",
     "zhTW": "征戰靴",
     "deDE": "[pl]Kriegsstiefel",
     "esES": "[fp]Botas de guerra",
@@ -2433,7 +2433,7 @@
   {
     "id": 2065,
     "Key": "xtb",
-    "enUS": "Battle Boots",
+    "enUS": " *** Battle Boots",
     "zhTW": "戰鬥靴",
     "deDE": "[pl]Kampfstiefel",
     "esES": "[fp]Botas de batalla",
@@ -2450,7 +2450,7 @@
   {
     "id": 2066,
     "Key": "xmb",
-    "enUS": "Mesh Boots",
+    "enUS": " *** Mesh Boots",
     "zhTW": "鐵網靴",
     "deDE": "[pl]Ringstiefel",
     "esES": "[fp]Botas malladas",
@@ -2467,7 +2467,7 @@
   {
     "id": 2067,
     "Key": "xvb",
-    "enUS": "Sharkskin Boots",
+    "enUS": " *** Sharkskin Boots",
     "zhTW": "鯊皮靴",
     "deDE": "[pl]Hailederstiefel",
     "esES": "[fp]Botas de piel de tiburón",
