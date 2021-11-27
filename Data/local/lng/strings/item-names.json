@@ -13823,7 +13823,7 @@
   {
     "id": 20259,
     "Key": "7vo",
-    "enUS": "Colossus Voulge",
+    "enUS": " --- Colossus Voulge --- ",
     "zhTW": "巨神長柄斧",
     "deDE": "[fs]Kolossvulge",
     "esES": "[ms]Voulge del coloso",
@@ -13840,7 +13840,7 @@
   {
     "id": 20260,
     "Key": "7s8",
-    "enUS": " --- Thresher --- ",
+    "enUS": " --- ÿc1Thresherÿc3 --- ",
     "zhTW": "斬鐮",
     "deDE": "[ms]Drescher",
     "esES": "[fs]Trilladora",
@@ -13874,7 +13874,7 @@
   {
     "id": 20262,
     "Key": "7h7",
-    "enUS": " --- Great Poleaxe --- ",
+    "enUS": " --- ÿc1Great Poleaxeÿc3 --- ",
     "zhTW": "巨型長柄斧",
     "deDE": "[fs]Große Stangenaxt",
     "esES": "[fs]Gran hacha larga",
@@ -13891,7 +13891,7 @@
   {
     "id": 20263,
     "Key": "7wc",
-    "enUS": " --- Giant Thresher --- ",
+    "enUS": " --- ÿc1Giant Thresherÿc3 --- ",
     "zhTW": "巨型斬鐮",
     "deDE": "[ms]Riesendrescher",
     "esES": "[fs]Trilladora gigante",
