@@ -13126,7 +13126,7 @@
   {
     "id": 20218,
     "Key": "7ws",
-    "enUS": "Caduceus",
+    "enUS": " --- Caduceus",
     "zhTW": "神使權杖",
     "deDE": "[ms]Schlangenstab",
     "esES": "[ms]Caduceo",
@@ -13840,7 +13840,7 @@
   {
     "id": 20260,
     "Key": "7s8",
-    "enUS": " --- ÿc1Thresherÿc3 --- ",
+    "enUS": " --- Thresher --- ",
     "zhTW": "斬鐮",
     "deDE": "[ms]Drescher",
     "esES": "[fs]Trilladora",
@@ -13874,7 +13874,7 @@
   {
     "id": 20262,
     "Key": "7h7",
-    "enUS": " --- ÿc1Great Poleaxeÿc3 --- ",
+    "enUS": " --- Great Poleaxe --- ",
     "zhTW": "巨型長柄斧",
     "deDE": "[fs]Große Stangenaxt",
     "esES": "[fs]Gran hacha larga",
@@ -13891,7 +13891,7 @@
   {
     "id": 20263,
     "Key": "7wc",
-    "enUS": " --- ÿc1Giant Thresherÿc3 --- ",
+    "enUS": " --- Giant Thresher --- ",
     "zhTW": "巨型斬鐮",
     "deDE": "[ms]Riesendrescher",
     "esES": "[fs]Trilladora gigante",
@@ -16509,7 +16509,7 @@
   {
     "id": 20417,
     "Key": "pab",
-    "enUS": " --- Sacred Targe ***",
+    "enUS": " --- Sacred Targe ---",
     "zhTW": "神聖小盾",
     "deDE": "[fs]Heilige Targe",
     "esES": "[fs]Adarga sacra",
