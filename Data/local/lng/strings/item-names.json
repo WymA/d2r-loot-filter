@@ -2314,7 +2314,7 @@
   {
     "id": 2058,
     "Key": "xh9",
-    "enUS": "Grim Helm |Ex|", //neily
+    "enUS": "Grim Helm |Ex|", 
     "zhTW": "陰森頭盔",
     "deDE": "[ms]Kampfhelm",
     "esES": "[ms]Yelmo lúgubre",
@@ -2331,7 +2331,7 @@
   {
     "id": 2059,
     "Key": "zhb",
-    "enUS": "War Belt |Ex|", //neily
+    "enUS": "War Belt |Ex|", 
     "zhTW": "征戰腰帶",
     "deDE": "[ms]Kriegsgürtel",
     "esES": "[ms]Cinturón de guerra",
@@ -2348,7 +2348,7 @@
   {
     "id": 2060,
     "Key": "ztb",
-    "enUS": "Battle Belt |Ex|", //neily
+    "enUS": "Battle Belt |Ex|", 
     "zhTW": "戰鬥腰帶",
     "deDE": "[ms]Kampfgürtel",
     "esES": "[ms]Cinturón de batalla",
@@ -2365,7 +2365,7 @@
   {
     "id": 2061,
     "Key": "zmb",
-    "enUS": "Mesh Belt |Ex|", //neily
+    "enUS": "Mesh Belt |Ex|", 
     "zhTW": "鐵網腰帶",
     "deDE": "[ms]Kettengürtel",
     "esES": "[ms]Cinturón mallado",
@@ -2382,7 +2382,7 @@
   {
     "id": 2062,
     "Key": "zvb",
-    "enUS": "Sharkskin Belt |Ex|", //neily
+    "enUS": "Sharkskin Belt |Ex|", 
     "zhTW": "鯊皮腰帶",
     "deDE": "[ms]Hailedergürtel",
     "esES": "[ms]Cinturón de piel de tiburón",
@@ -2399,7 +2399,7 @@
   {
     "id": 2063,
     "Key": "zlb",
-    "enUS": "Demonhide Sash |Ex|", //neily
+    "enUS": "Demonhide Sash |Ex|", 
     "zhTW": "魔皮束帶",
     "deDE": "[fs]Dämonenlederschärpe",
     "esES": "[ms]Fajín de cuero de demonio",
@@ -2416,7 +2416,7 @@
   {
     "id": 2064,
     "Key": "xhb",
-    "enUS": "War Boots |Ex|", //neily
+    "enUS": "War Boots |Ex|", 
     "zhTW": "征戰靴",
     "deDE": "[pl]Kriegsstiefel",
     "esES": "[fp]Botas de guerra",
@@ -2433,7 +2433,7 @@
   {
     "id": 2065,
     "Key": "xtb",
-    "enUS": "Battle Boots |Ex|", //neily
+    "enUS": "Battle Boots |Ex|", 
     "zhTW": "戰鬥靴",
     "deDE": "[pl]Kampfstiefel",
     "esES": "[fp]Botas de batalla",
@@ -2450,7 +2450,7 @@
   {
     "id": 2066,
     "Key": "xmb",
-    "enUS": "Mesh Boots |Ex|", //neily
+    "enUS": "Mesh Boots |Ex|", 
     "zhTW": "鐵網靴",
     "deDE": "[pl]Ringstiefel",
     "esES": "[fp]Botas malladas",
@@ -2467,7 +2467,7 @@
   {
     "id": 2067,
     "Key": "xvb",
-    "enUS": "Sharkskin Boots |Ex|", //neily
+    "enUS": "Sharkskin Boots |Ex|", 
     "zhTW": "鯊皮靴",
     "deDE": "[pl]Hailederstiefel",
     "esES": "[fp]Botas de piel de tiburón",
@@ -2484,7 +2484,7 @@
   {
     "id": 2068,
     "Key": "xlb",
-    "enUS": "Demonhide Boots |Ex|", //neily
+    "enUS": "Demonhide Boots |Ex|", 
     "zhTW": "魔皮長靴",
     "deDE": "[pl]Dämonenlederstiefel",
     "esES": "[fp]Botas de cuero de demonio",
@@ -2501,7 +2501,7 @@
   {
     "id": 2070,
     "Key": "xtg",
-    "enUS": "Battle Gauntlets |Ex|", //neily
+    "enUS": "Battle Gauntlets |Ex|", 
     "zhTW": "戰鬥護手",
     "deDE": "[pl]Kampfpanzerhandschuhe",
     "esES": "[mp]Guanteletes de batalla",
@@ -2518,7 +2518,7 @@
   {
     "id": 2071,
     "Key": "xmg",
-    "enUS": "Heavy Bracers |Ex|", //neily
+    "enUS": "Heavy Bracers |Ex|", 
     "zhTW": "重型護腕",
     "deDE": "[pl]schwere Armschienen",
     "esES": "[mp]Brazales pesados",
@@ -2535,7 +2535,7 @@
   {
     "id": 2072,
     "Key": "xvg",
-    "enUS": "Sharkskin Gloves |Ex|", //neily
+    "enUS": "Sharkskin Gloves |Ex|", 
     "zhTW": "鯊皮手套",
     "deDE": "[pl]Hailederhandschuhe",
     "esES": "[mp]Guantes de piel de tiburón",
@@ -2552,7 +2552,7 @@
   {
     "id": 2073,
     "Key": "xlg",
-    "enUS": "Demonhide Gloves |Ex|", //neily
+    "enUS": "Demonhide Gloves |Ex|", 
     "zhTW": "魔皮手套",
     "deDE": "[pl]Dämonenlederhandschuhe",
     "esES": "[mp]Guantes de cuero de demonio",
@@ -2671,7 +2671,7 @@
   {
     "id": 2080,
     "Key": "xtp",
-    "enUS": " [X] Mage Plate", //neily
+    "enUS": " [X] Mage Plate", 
     "zhTW": "法師鎧甲",
     "deDE": "[fs]Magierplattenrüstung",
     "esES": "[fs]Coraza de mago",
@@ -3470,7 +3470,7 @@
   {
     "id": 2128,
     "Key": "9tr",
-    "enUS": "Fuscina |Ex|", //neily
+    "enUS": "Fuscina |Ex|", 
     "zhTW": "矛叉",
     "deDE": "[ms]Kampfdreizack",
     "esES": "[fs]Fuscina",
@@ -3487,7 +3487,7 @@
   {
     "id": 2129,
     "Key": "9sr",
-    "enUS": "War Spear |Ex|", //neily
+    "enUS": "War Spear |Ex|", 
     "zhTW": "征戰長矛",
     "deDE": "[ms]Kampfspeer",
     "esES": "[fs]Lanza de guerra",
@@ -3504,7 +3504,7 @@
   {
     "id": 2130,
     "Key": "9ts",
-    "enUS": "Harpoon |Ex|", //neily
+    "enUS": "Harpoon |Ex|", 
     "zhTW": "魚叉",
     "deDE": "[fs]Harpune",
     "esES": "[ms]Arpón",
@@ -4796,7 +4796,7 @@
   {
     "id": 2212,
     "Key": "amu",
-    "enUS": "[Amulet]", //neily
+    "enUS": "[Amulet]", 
     "zhTW": "護身符Amulet",
     "deDE": "[ns]Amulett",
     "esES": "[ms]Amuleto",
@@ -4830,7 +4830,7 @@
   {
     "id": 2214,
     "Key": "rin",
-    "enUS": "[Ring]", //neily
+    "enUS": "[Ring]", 
     "zhTW": "戒指Ring",
     "deDE": "[ms]Ring",
     "esES": "[ms]Anillo",
@@ -8876,7 +8876,7 @@
   {
     "id": 2578,
     "Key": "Rakescar",
-    "enUS": "[MAX:150ED]\nRakescar", //neily
+    "enUS": "[MAX:150ED]\nRakescar", 
     "zhTW": "[MAX:150ED]\n耙痕",
     "deDE": "Teufelsnarbe",
     "esES": "Rastreador",
@@ -8893,7 +8893,7 @@
   {
     "id": 2579,
     "Key": "Fechmars Axe",
-    "enUS": "[MAX:90ED]\nAxe of Fechmar", //neily
+    "enUS": "[MAX:90ED]\nAxe of Fechmar", 
     "zhTW": "[MAX:90ED]\n費屈瑪之斧",
     "deDE": "Axt von Fechmar",
     "esES": "Hacha de Fechmar",
@@ -8910,7 +8910,7 @@
   {
     "id": 2580,
     "Key": "Goreshovel",
-    "enUS": "[MAX:50ED]\nGoreshovel", //neily
+    "enUS": "[MAX:50ED]\nGoreshovel", 
     "zhTW": "[MAX:50ED]\n血鍬",
     "deDE": "Müllschaufel",
     "esES": "Pala sangrienta",
@@ -8927,7 +8927,7 @@
   {
     "id": 2581,
     "Key": "The Chieftan",
-    "enUS": "[MAX:20RES]\nThe Chieftain", //neily
+    "enUS": "[MAX:20RES]\nThe Chieftain", 
     "zhTW": "[MAX:20RES]\n酋長",
     "deDE": "der Häuptling",
     "esES": "El cacique",
@@ -8944,7 +8944,7 @@
   {
     "id": 2582,
     "Key": "Brainhew",
-    "enUS": "[MAX:80ED/13LM]\nBrainhew", //neily
+    "enUS": "[MAX:80ED/13LM]\nBrainhew", 
     "zhTW": "[MAX:80ED/13LM]\n劈腦",
     "deDE": "Hirnhacke",
     "esES": "Cortacerebros",
@@ -8961,7 +8961,7 @@
   {
     "id": 2583,
     "Key": "The Humongous",
-    "enUS": "[MAX:120ED/8-25DAM/30STR]\nHumongous", //neily
+    "enUS": "[MAX:120ED/8-25DAM/30STR]\nHumongous", 
     "zhTW": "[MAX:120ED/8-25DAM/30STR]\n巨無霸",
     "deDE": "Riese",
     "esES": "Demoledora",
@@ -8995,7 +8995,7 @@
   {
     "id": 2585,
     "Key": "Maelstromwrath",
-    "enUS": "[MAX:3/3/3/3]\nMaelstrom", //neily
+    "enUS": "[MAX:3/3/3/3]\nMaelstrom", 
     "zhTW": "[MAX:3/3/3/3]\n漩渦",
     "deDE": "Mahlstrom",
     "esES": "Vorágine",
@@ -9012,7 +9012,7 @@
   {
     "id": 2586,
     "Key": "Gravenspine",
-    "enUS": "[MAX:50Mana]\nGravenspine", //neily
+    "enUS": "[MAX:50Mana]\nGravenspine", 
     "zhTW": "[MAX:50Mana]\n墓穴之脊",
     "deDE": "Grabknochen",
     "esES": "Espina de la tumba",
@@ -9046,7 +9046,7 @@
   {
     "id": 2588,
     "Key": "Felloak",
-    "enUS": "[MAX:80ED]\nFelloak", //neily
+    "enUS": "[MAX:80ED]\nFelloak", 
     "zhTW": "[MAX:80ED]\n魔橡樹",
     "deDE": "Falleiche",
     "esES": "Roble siniestro",
@@ -9063,7 +9063,7 @@
   {
     "id": 2589,
     "Key": "Knell Striker",
-    "enUS": "[MAX:80ED]\nKnell Striker", //neily
+    "enUS": "[MAX:80ED]\nKnell Striker", 
     "zhTW": "[MAX:80ED]\n喪鐘敲擊者",
     "deDE": "Totenglöckner",
     "esES": "Badajo",
@@ -9080,7 +9080,7 @@
   {
     "id": 2590,
     "Key": "Rusthandle",
-    "enUS": "[MAX:60ED/110DTU/+3Veng]\nRusthandle", //neily
+    "enUS": "[MAX:60ED/110DTU/+3Veng]\nRusthandle", 
     "zhTW": "[MAX:60ED/110DTU/3復仇打擊]\n鏽蝕把手",
     "deDE": "Rostgriff",
     "esES": "Mango oxidado",
@@ -9097,7 +9097,7 @@
   {
     "id": 2591,
     "Key": "Stormeye",
-    "enUS": "[MAX:120ED/5RL]\nStormeye", //neily
+    "enUS": "[MAX:120ED/5RL]\nStormeye", 
     "zhTW": "[MAX:120ED/5抗電]\n暴風眼",
     "deDE": "Sturmauge",
     "esES": "Ojo de la tormenta",
@@ -9114,7 +9114,7 @@
   {
     "id": 2592,
     "Key": "Stoutnail",
-    "enUS": "[MAX:10ATD]\nStoutnail", //neily
+    "enUS": "[MAX:10ATD]\nStoutnail", 
     "zhTW": "[MAX:10反傷]\n特粗鐵釘",
     "deDE": "Festnagel",
     "esES": "Clavo sólido",
@@ -9131,7 +9131,7 @@
   {
     "id": 2593,
     "Key": "Crushflange",
-    "enUS": "[MAX:60ED]\nCrushflange", //neily
+    "enUS": "[MAX:60ED]\nCrushflange", 
     "zhTW": "[MAX:60ED]\n碎擊釘錘",
     "deDE": "Malmknüppel",
     "esES": "Remate machacador",
@@ -9165,7 +9165,7 @@
   {
     "id": 2595,
     "Key": "The Generals Tan Do Li Ga",
-    "enUS": "[MAX:60ED]\nThe General's Tan Do Li Ga", //neily
+    "enUS": "[MAX:60ED]\nThe General's Tan Do Li Ga", 
     "zhTW": "[MAX:60ED]\n將軍的連枷",
     "deDE": "das Tan-Do-Li-Ga des Generals",
     "esES": "Tan do li ga del general",
@@ -9182,7 +9182,7 @@
   {
     "id": 2596,
     "Key": "Ironstone",
-    "enUS": "[MAX:150ED/150AR]\nIronstone", //neily
+    "enUS": "[MAX:150ED/150AR]\nIronstone", 
     "zhTW": "[MAX:150ED/150AR]\n鐵石",
     "deDE": "Eisenstein",
     "esES": "Piedra de hierro",
@@ -11120,7 +11120,7 @@
   {
     "id": 10021,
     "Key": "xhm",
-    "enUS": "Winged Helm |Ex|", //neily
+    "enUS": "Winged Helm |Ex|", 
     "zhTW": "翼盔",
     "deDE": "Flügelhelm",
     "esES": "[ms]Yelmo alado",
@@ -12225,7 +12225,7 @@
   {
     "id": 11006,
     "Key": "neg",
-    "enUS": "Hellspawn Skull |S.L|", //neily
+    "enUS": "Hellspawn Skull |S.L|", 
     "zhTW": "地獄爪牙顱骨",
     "deDE": "[ms]Höllenbrutschädel",
     "esES": "[ms]Cráneo del averno",
@@ -12242,7 +12242,7 @@
   {
     "id": 11008,
     "Key": "uhf",
-    "enUS": "Legendary Mallet |S|", //neily
+    "enUS": "Legendary Mallet |S|", 
     "zhTW": "傳說戰鎚",
     "deDE": "[ms]Legendärer Hammer",
     "esES": "[ms]Mazo legendario",
@@ -12259,7 +12259,7 @@
   {
     "id": 11010,
     "Key": "7wa",
-    "enUS": "Berserker Axe |S|", //neily
+    "enUS": "Berserker Axe |S|", 
     "zhTW": "狂戰斧",
     "deDE": "[fs]Berserkeraxt",
     "esES": "[fs]Hacha de berserker",
@@ -12276,7 +12276,7 @@
   {
     "id": 11012,
     "Key": "xhg",
-    "enUS": "War Gauntlets |Ex|", //neily
+    "enUS": "War Gauntlets |Ex|", 
     "zhTW": "征戰護手",
     "deDE": "Kriegspanzerhandschuhe",
     "esES": "[mp]Guanteletes de guerra",
@@ -12293,7 +12293,7 @@
   {
     "id": 11028,
     "Key": "9bl",
-    "enUS": "Stiletto |Ex|", //neily
+    "enUS": "Stiletto |Ex|", 
     "zhTW": "窄刃匕首",
     "deDE": "[ns]Stilett",
     "esES": "[ms]Stiletto",
@@ -13126,7 +13126,7 @@
   {
     "id": 20218,
     "Key": "7ws",
-    "enUS": "Caduceus |S|", //neily
+    "enUS": "Caduceus |S|", 
     "zhTW": "神使權杖",
     "deDE": "[ms]Schlangenstab",
     "esES": "[ms]Caduceo",
@@ -13908,7 +13908,7 @@
   {
     "id": 20264,
     "Key": "6ss",
-    "enUS": "Walking Stick |S|", //neily
+    "enUS": "Walking Stick |S|", 
     "zhTW": "手杖",
     "deDE": "[ms]Gehstock",
     "esES": "[ms]Bordón",
@@ -13925,7 +13925,7 @@
   {
     "id": 20265,
     "Key": "6ls",
-    "enUS": "Stalagmite |S|", //neily
+    "enUS": "Stalagmite |S|", 
     "zhTW": "鐘乳石杖",
     "deDE": "[ms]Stalagmit",
     "esES": "[fs]Estalagmita",
@@ -13942,7 +13942,7 @@
   {
     "id": 20266,
     "Key": "6cs",
-    "enUS": "Elder Staff |S|", //neily
+    "enUS": "Elder Staff |S|", 
     "zhTW": "長者法杖",
     "deDE": "[ms]Ältestenstab",
     "esES": "[ms]Bastón de anciano",
@@ -13959,7 +13959,7 @@
   {
     "id": 20267,
     "Key": "6bs",
-    "enUS": "Shillelagh |S|", //neily
+    "enUS": "Shillelagh |S|", 
     "zhTW": "節瘤木杖",
     "deDE": "Shillelagh",
     "esES": "[ms]Shillelagh",
@@ -13976,7 +13976,7 @@
   {
     "id": 20268,
     "Key": "6ws",
-    "enUS": "Archon Staff |S|", //neily
+    "enUS": "Archon Staff |S|", 
     "zhTW": "統御者法杖",
     "deDE": "[ms]Archonstab",
     "esES": "[ms]Bastón de arconte",
@@ -13993,7 +13993,7 @@
   {
     "id": 20269,
     "Key": "6sb",
-    "enUS": "Spider Bow |S|", //neily
+    "enUS": "Spider Bow |S|", 
     "zhTW": "蜘蛛弓",
     "deDE": "[ms]Spinnenbogen",
     "esES": "[ms]Arco de araña",
@@ -14010,7 +14010,7 @@
   {
     "id": 20270,
     "Key": "6hb",
-    "enUS": "Blade Bow |S|", //neily
+    "enUS": "Blade Bow |S|", 
     "zhTW": "刀鋒弓",
     "deDE": "[ms]Klingenbogen",
     "esES": "[ms]Arco tajante",
@@ -14027,7 +14027,7 @@
   {
     "id": 20271,
     "Key": "6lb",
-    "enUS": "Shadow Bow |S|", //neily
+    "enUS": "Shadow Bow |S|", 
     "zhTW": "暗影弓",
     "deDE": "[ms]Schattenbogen",
     "esES": "[ms]Arco sombrío",
@@ -14044,7 +14044,7 @@
   {
     "id": 20272,
     "Key": "6cb",
-    "enUS": "Great Bow |S|", //neily
+    "enUS": "Great Bow |S|", 
     "zhTW": "巨弓",
     "deDE": "[ms]Langbogen",
     "esES": "[ms]Gran arco",
@@ -14061,7 +14061,7 @@
   {
     "id": 20273,
     "Key": "6s7",
-    "enUS": "Diamond Bow |S|", //neily
+    "enUS": "Diamond Bow |S|", 
     "zhTW": "鑽石弓",
     "deDE": "[ms]Diamantbogen",
     "esES": "[ms]Arco de diamante",
@@ -14078,7 +14078,7 @@
   {
     "id": 20274,
     "Key": "6l7",
-    "enUS": "Crusader Bow |S|", //neily
+    "enUS": "Crusader Bow |S|", 
     "zhTW": "聖教軍長弓",
     "deDE": "[ms]Kreuzritterbogen",
     "esES": "[ms]Arco de cruzada",
@@ -14095,7 +14095,7 @@
   {
     "id": 20275,
     "Key": "6sw",
-    "enUS": "Ward Bow |S|", //neily
+    "enUS": "Ward Bow |S|", 
     "zhTW": "庇護弓",
     "deDE": "[ms]Wächterbogen",
     "esES": "[ms]Arco de custodia",
@@ -14112,7 +14112,7 @@
   {
     "id": 20276,
     "Key": "6lw",
-    "enUS": "Hydra Bow |S|", //neily
+    "enUS": "Hydra Bow |S|", 
     "zhTW": "多頭蛇弓",
     "deDE": "[ms]Hydrabogen",
     "esES": "[ms]Arco de hidra",
@@ -14724,7 +14724,7 @@
   {
     "id": 20312,
     "Key": "amb",
-    "enUS": "Matriarchal Bow |S|", //neily
+    "enUS": "Matriarchal Bow |S|", 
     "zhTW": "女傑之弓",
     "deDE": "[ms]Matriarchenbogen",
     "esES": "[ms]Arco matriarcal",
@@ -14741,7 +14741,7 @@
   {
     "id": 20313,
     "Key": "amc",
-    "enUS": "[X] Grand Matron Bow |S|", //neily
+    "enUS": "[X] Grand Matron Bow |S|", 
     "zhTW": "主母之弓",
     "deDE": "[ms]Großer Matronenbogen",
     "esES": "[ms]Arco de la gran matrona",
@@ -14758,7 +14758,7 @@
   {
     "id": 20314,
     "Key": "amd",
-    "enUS": "Matriarchal Spear |S|", //neily
+    "enUS": "Matriarchal Spear |S|", 
     "zhTW": "女傑長矛",
     "deDE": "[ms]Matriarchenspeer",
     "esES": "[fs]Lanza matriarcal",
@@ -14775,7 +14775,7 @@
   {
     "id": 20315,
     "Key": "ame",
-    "enUS": "Matriarchal Pike |S|", //neily
+    "enUS": "Matriarchal Pike |S|", 
     "zhTW": "女傑長槍",
     "deDE": "[fs]Matriarchenpike",
     "esES": "[fs]Pica matriarcal",
@@ -14792,7 +14792,7 @@
   {
     "id": 20316,
     "Key": "amf",
-    "enUS": "Matriarchal Javelin |S|", //neily
+    "enUS": "Matriarchal Javelin |S|", 
     "zhTW": "女傑標槍",
     "deDE": "[ms]Matriarchenwurfspieß",
     "esES": "[fs]Jabalina matriarcal",
@@ -15149,7 +15149,7 @@
   {
     "id": 20337,
     "Key": "ci0",
-    "enUS": "[X] Circlet", //neily
+    "enUS": "[X] Circlet", 
     "zhTW": "頭環",
     "deDE": "[ms]Reif",
     "esES": "[fs]Aureola",
@@ -15166,7 +15166,7 @@
   {
     "id": 20338,
     "Key": "ci1",
-    "enUS": "[X] Coronet", //neily
+    "enUS": "[X] Coronet", 
     "zhTW": "寶冠",
     "deDE": "[ns]Krönchen",
     "esES": "[fs]Coronilla",
@@ -15183,7 +15183,7 @@
   {
     "id": 20339,
     "Key": "ci2",
-    "enUS": "[X] Tiara |Ex|", //neily
+    "enUS": "[X] Tiara |Ex|", 
     "zhTW": "頭冠",
     "deDE": "[fs]Tiara",
     "esES": "[fs]Tiara",
@@ -15200,7 +15200,7 @@
   {
     "id": 20340,
     "Key": "ci3",
-    "enUS": "[X] Diadem |S|", //neily
+    "enUS": "[X] Diadem |S|", 
     "zhTW": "權冠",
     "deDE": "[ns]Diadem",
     "esES": "[fs]Diadema",
@@ -15217,7 +15217,7 @@
   {
     "id": 20341,
     "Key": "uap",
-    "enUS": "Shako |S|", //neily
+    "enUS": "Shako |S|", 
     "zhTW": "軍帽",
     "deDE": "[ms]Tschako",
     "esES": "[ms]Chacó",
@@ -15302,7 +15302,7 @@
   {
     "id": 20346,
     "Key": "urn",
-    "enUS": "Corona |S|", //neily
+    "enUS": "Corona |S|", 
     "zhTW": "日冕之冠",
     "deDE": "[fs]Korona",
     "esES": "[fs]Corona",
@@ -15319,7 +15319,7 @@
   {
     "id": 20347,
     "Key": "usk",
-    "enUS": "Demonhead |S|", //neily
+    "enUS": "Demonhead |S|", 
     "zhTW": "惡魔頭骨",
     "deDE": "[ms]Dämonenschädel",
     "esES": "[fs]Faz del demonio",
@@ -15336,7 +15336,7 @@
   {
     "id": 20348,
     "Key": "uui",
-    "enUS": "Dusk Shroud |S.L|", //neily
+    "enUS": "[X] Dusk Shroud |S.L|", 
     "zhTW": "灰暮罩衣",
     "deDE": "[ms]Dämmerschleier",
     "esES": "[fs]Mortaja del crepúsculo",
@@ -15353,7 +15353,7 @@
   {
     "id": 20349,
     "Key": "uea",
-    "enUS": "[X] Wyrmhide |S.L|", //neily
+    "enUS": "[X] Wyrmhide |S.L|", 
     "zhTW": "龍皮甲",
     "deDE": "[ns]Wyrmleder",
     "esES": "[ms]Cuero de vermis",
@@ -15370,7 +15370,7 @@
   {
     "id": 20350,
     "Key": "ula",
-    "enUS": "[X] Scarab Husk |S.L|", //neily
+    "enUS": "[X] Scarab Husk |S.L|", 
     "zhTW": "聖甲蟲殼皮甲",
     "deDE": "[fs]Skarabäusschale",
     "esES": "[mp]Élitros de alfazaque",
@@ -15387,7 +15387,7 @@
   {
     "id": 20351,
     "Key": "utu",
-    "enUS": "[X] Wire Fleece |S.L|", //neily
+    "enUS": "[X] Wire Fleece |S.L|", 
     "zhTW": "鋼線毛皮甲",
     "deDE": "[ns]Drahtvlies",
     "esES": "[fs]Lana de alambre",
@@ -15404,7 +15404,7 @@
   {
     "id": 20352,
     "Key": "ung",
-    "enUS": "Diamond Mail |S.M|", //neily
+    "enUS": "Diamond Mail |S.M|", 
     "zhTW": "鑽石鎖甲",
     "deDE": "[ns]Diamantpanzerhemd",
     "esES": "[fs]Cota de diamante",
@@ -15421,7 +15421,7 @@
   {
     "id": 20353,
     "Key": "ucl",
-    "enUS": "Loricated Mail |S.H|", //neily
+    "enUS": "Loricated Mail |S.H|", 
     "zhTW": "綴鱗戰甲",
     "deDE": "[ns]Kürasspanzerhemd",
     "esES": "[fs]Cota lorigada",
@@ -15438,7 +15438,7 @@
   {
     "id": 20354,
     "Key": "uhn",
-    "enUS": "Boneweave |S.M|", //neily
+    "enUS": "Boneweave |S.M|", 
     "zhTW": "骸骨網甲",
     "deDE": "[ns]Knochengespinst",
     "esES": "[ms]Malla de hueso",
@@ -15455,7 +15455,7 @@
   {
     "id": 20355,
     "Key": "urs",
-    "enUS": "[X] Great Hauberk |S.L|", //neily
+    "enUS": "[X] Great Hauberk |S.L|", 
     "zhTW": "鱗鎧胸甲",
     "deDE": "[fs]Große Halsberge",
     "esES": "[fs]Gran loriga",
@@ -15472,7 +15472,7 @@
   {
     "id": 20356,
     "Key": "upl",
-    "enUS": "[X] Balrog Skin |S.M|", //neily
+    "enUS": "[X] Balrog Skin |S.M|", 
     "zhTW": "炎魔皮板甲",
     "deDE": "[ns]Balrogleder",
     "esES": "[fs]Piel de Balrog",
@@ -15489,7 +15489,7 @@
   {
     "id": 20357,
     "Key": "ult",
-    "enUS": "[X] Hellforge Plate |S.H|", //neily",
+    "enUS": "[X] Hellforge Plate |S.H|", ",
     "zhTW": "地獄鍛甲",
     "deDE": "[fs]Höllenschmiedenplattenrüstung",
     "esES": "[fs]Coraza de la Fragua del Infierno",
@@ -15506,7 +15506,7 @@
   {
     "id": 20358,
     "Key": "uld",
-    "enUS": "[X] Kraken Shell |S.M|", //neily
+    "enUS": "[X] Kraken Shell |S.M|", 
     "zhTW": "海怪之殼",
     "deDE": "[fs]Krakenschale",
     "esES": "[fs]Concha de kraken",
@@ -15523,7 +15523,7 @@
   {
     "id": 20359,
     "Key": "uth",
-    "enUS": "[X] Lacquered Plate |S.M|", //neily
+    "enUS": "[XXX] Lacquered Plate |S.M|", 
     "zhTW": "漆護鎧甲",
     "deDE": "[fs]Lackierte Plattenrüstung",
     "esES": "[fs]Coraza lacada",
@@ -15540,7 +15540,7 @@
   {
     "id": 20360,
     "Key": "uul",
-    "enUS": "[X] Shadow Plate |S.H|", //neily
+    "enUS": "[X] Shadow Plate |S.H|", 
     "zhTW": "暗影鎧甲",
     "deDE": "[fs]Schattenplattenrüstung",
     "esES": "[fs]Coraza sombría",
@@ -15557,7 +15557,7 @@
   {
     "id": 20361,
     "Key": "uar",
-    "enUS": "[X] Sacred Armor |S.M|", //neily
+    "enUS": "[XXX] Sacred Armor |S.M|", 
     "zhTW": "神聖戰甲",
     "deDE": "[fs]Heilige Rüstung",
     "esES": "[fs]Armadura sacra",
@@ -15574,7 +15574,7 @@
   {
     "id": 20362,
     "Key": "utp",
-    "enUS": "[X] Archon Plate |S.L|", //neily
+    "enUS": "[XXX] Archon Plate |S.L|", 
     "zhTW": "統御者鎧甲",
     "deDE": "[fs]Archonplattenrüstung",
     "esES": "[fs]Coraza de arconte",
@@ -15642,7 +15642,7 @@
   {
     "id": 20366,
     "Key": "uit",
-    "enUS": "[X] Monarch |S.L|", //neily
+    "enUS": "[X] Monarch |S.L|", 
     "zhTW": "君主盾",
     "deDE": "[ms]Monarch",
     "esES": "[ms]Monarca",
@@ -15693,7 +15693,7 @@
   {
     "id": 20369,
     "Key": "ulg",
-    "enUS": "Bramble Mitts |S|", //neily
+    "enUS": "Bramble Mitts |S|", 
     "zhTW": "荊棘手套",
     "deDE": "[pl]Dornenhandschuhe",
     "esES": "[mp]Mitones de zarza",
@@ -15710,7 +15710,7 @@
   {
     "id": 20370,
     "Key": "uvg",
-    "enUS": "Vampirebone Gloves |S|", //neily
+    "enUS": "Vampirebone Gloves |S|", 
     "zhTW": "吸血鬼骸骨手套",
     "deDE": "[pl]Vampirknochenhandschuhe",
     "esES": "[mp]Guantes de hueso de vampiro",
@@ -15727,7 +15727,7 @@
   {
     "id": 20371,
     "Key": "umg",
-    "enUS": "Vambraces |S|", //neily
+    "enUS": "Vambraces |S|", 
     "zhTW": "護臂",
     "deDE": "[pl]Vampirschienen",
     "esES": "[mp]Avambrazos",
@@ -15744,7 +15744,7 @@
   {
     "id": 20372,
     "Key": "utg",
-    "enUS": "Crusader Gauntlets |S|", //neily
+    "enUS": "Crusader Gauntlets |S|", 
     "zhTW": "聖教軍護手",
     "deDE": "[pl]Kreuzritterhandschuhe",
     "esES": "[mp]Guanteletes de cruzada",
@@ -15761,7 +15761,7 @@
   {
     "id": 20373,
     "Key": "uhg",
-    "enUS": "Ogre Gauntlets |S|", //neily
+    "enUS": "Ogre Gauntlets |S|", 
     "zhTW": "巨魔護手",
     "deDE": "[pl]Ogerhandschuhe",
     "esES": "[mp]Guanteletes de ogro",
@@ -15778,7 +15778,7 @@
   {
     "id": 20374,
     "Key": "ulb",
-    "enUS": "Wyrmhide Boots |S|", //neily
+    "enUS": "Wyrmhide Boots |S|", 
     "zhTW": "龍皮靴",
     "deDE": "[pl]Wyrmlederstiefel",
     "esES": "[fp]Botas de cuero de vermis",
@@ -15795,7 +15795,7 @@
   {
     "id": 20375,
     "Key": "uvb",
-    "enUS": "Scarabshell Boots |S|", //neily
+    "enUS": "Scarabshell Boots |S|", 
     "zhTW": "聖甲蟲殼皮靴",
     "deDE": "[pl]Skarabäusschalenstiefel",
     "esES": "[fp]Botas de élitro de alfazaque",
@@ -15812,7 +15812,7 @@
   {
     "id": 20376,
     "Key": "umb",
-    "enUS": "Boneweave Boots |S|", //neily
+    "enUS": "Boneweave Boots |S|", 
     "zhTW": "骸骨網靴",
     "deDE": "[pl]Knochengespinststiefel",
     "esES": "[fp]Botas de hueso",
@@ -15829,7 +15829,7 @@
   {
     "id": 20377,
     "Key": "utb",
-    "enUS": "Mirrored Boots |S|", //neily
+    "enUS": "Mirrored Boots |S|", 
     "zhTW": "幻鏡戰靴",
     "deDE": "[pl]Verspiegelte Stiefel",
     "esES": "[fp]Botas de espejo",
@@ -15846,7 +15846,7 @@
   {
     "id": 20378,
     "Key": "uhb",
-    "enUS": "Myrmidon Greaves |S|", //neily
+    "enUS": "Myrmidon Greaves |S|", 
     "zhTW": "勇士護脛",
     "deDE": "[fs]Myrmidonbeinschienen",
     "esES": "[fp]Grebas de mirmidón",
@@ -15863,7 +15863,7 @@
   {
     "id": 20379,
     "Key": "ulc",
-    "enUS": "Spiderweb Sash |S|", //neily
+    "enUS": "Spiderweb Sash |S|", 
     "zhTW": "蛛網束帶",
     "deDE": "[fs]Spinnennetzschärpe",
     "esES": "[ms]Fajín de tela de araña",
@@ -15880,7 +15880,7 @@
   {
     "id": 20380,
     "Key": "uvc",
-    "enUS": "Vampirefang Belt |S|", //neily
+    "enUS": "Vampirefang Belt |S|", 
     "zhTW": "吸血鬼牙腰帶",
     "deDE": "[ms]Vampirzahngürtel",
     "esES": "[ms]Cinturón de colmillo de vampiro",
@@ -16220,7 +16220,7 @@
   {
     "id": 20400,
     "Key": "pa9",
-    "enUS": "[X] Gilded Shield |Ex.L|", //neily
+    "enUS": "[X] Gilded Shield |Ex.L|", 
     "zhTW": "金紋盾|擴輕",
     "deDE": "[ms]Vergoldeter Schild",
     "esES": "[ms]Escudo dorado",
@@ -16237,7 +16237,7 @@
   {
     "id": 20401,
     "Key": "paa",
-    "enUS": "[X] Royal Shield |Ex.L|", //neily
+    "enUS": "[X] Royal Shield |Ex.L|", 
     "zhTW": "皇家盾|擴輕",
     "deDE": "[ms]Königlicher Schild",
     "esES": "[ms]Escudo real",
@@ -16509,7 +16509,7 @@
   {
     "id": 20417,
     "Key": "pab",
-    "enUS": "[X] Sacred Targe |S.L|", //neily
+    "enUS": "[X] Sacred Targe |S.L|", 
     "zhTW": "神聖小盾",
     "deDE": "[fs]Heilige Targe",
     "esES": "[fs]Adarga sacra",
@@ -16526,7 +16526,7 @@
   {
     "id": 20418,
     "Key": "pac",
-    "enUS": "[X] Sacred Rondache |S.L|", //neily
+    "enUS": "[X] Sacred Rondache |S.L|", 
     "zhTW": "神聖輕圓盾",
     "deDE": "[fs]Heilige Rondache",
     "esES": "[fs]Rodela sacra",
@@ -16543,7 +16543,7 @@
   {
     "id": 20419,
     "Key": "pae",
-    "enUS": "[X] Zakarum Shield |S.L|", //neily
+    "enUS": "[X] Zakarum Shield |S.L|", 
     "zhTW": "撒卡蘭姆盾",
     "deDE": "[ms]Zakarumschild",
     "esES": "[ms]Escudo de Zakarum",
@@ -16560,7 +16560,7 @@
   {
     "id": 20420,
     "Key": "paf",
-    "enUS": "[X] Vortex Shield |S.L|", //neily
+    "enUS": "[X] Vortex Shield |S.L|", 
     "zhTW": "渦旋盾",
     "deDE": "[ms]Wirbelschild",
     "esES": "[ms]Escudo vórtice",
@@ -16662,7 +16662,7 @@
   {
     "id": 20433,
     "Key": "jew",
-    "enUS": "[***Jewel***]", //neily
+    "enUS": "[***Jewel***]", 
     "zhTW": "珠寶Jewel",
     "deDE": "[ns]Juwel",
     "esES": "[fs]Joya",
@@ -16696,7 +16696,7 @@
   {
     "id": 20435,
     "Key": "cm1",
-    "enUS": "[***Small Charm***]", //neily
+    "enUS": "[***Small Charm***]", 
     "zhTW": "小型咒符ÿc;SCÿc4",
     "deDE": "[ms]Kleiner Zauber",
     "esES": "[ms]Dije pequeño",
@@ -16713,7 +16713,7 @@
   {
     "id": 20436,
     "Key": "cm2",
-    "enUS": "[***Large Charm***]", //neily
+    "enUS": "[***Large Charm***]", 
     "zhTW": "大型咒符ÿc;LCÿc4",
     "deDE": "[ms]Großer Zauber",
     "esES": "[ms]Dije grande",
@@ -16730,7 +16730,7 @@
   {
     "id": 20437,
     "Key": "cm3",
-    "enUS": "[***Grand Charm***]", //neily
+    "enUS": "[***Grand Charm***]", 
     "zhTW": "特大咒符ÿc;GCÿc4",
     "deDE": "[ms]Riesenzauber",
     "esES": "[ms]Dije enorme",
@@ -22119,7 +22119,7 @@
   {
     "id": 21592,
     "Key": "Arachnid Mesh",
-    "enUS": "Arachnid Mesh",
+    "enUS": "[MAX:120ED]\nArachnid Mesh",
     "zhTW": "[MAX:120ED]\n蜘蛛之網",
     "deDE": "Spinnenmonsternetz",
     "esES": "Malla arácnida",
