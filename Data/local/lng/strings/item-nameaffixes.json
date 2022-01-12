@@ -1294,7 +1294,7 @@
   {
     "id": 1801,
     "Key": "Ruby",
-    "enUS": "Ruby",
+    "enUS": "### Ruby",
     "zhTW": "寶紅",
     "deDE": "[fs]rubinrote[ms]rubinroter[ns]rubinrotes[pl]rubinrote",
     "esES": "de rubí",
@@ -10066,7 +10066,7 @@
   {
     "id": 20807,
     "Key": "Jeweler's",
-    "enUS": "Jeweler's *** ",
+    "enUS": "### Jeweler's",
     "zhTW": "珠寶匠",
     "deDE": "[ms]prunkvoller[fs]prunkvolle[ns]prunkvolles[pl]prunkvolle",
     "esES": "[fs]de joyero[ms]de joyero[fp]de joyero[mp]de joyero",
@@ -13551,7 +13551,7 @@
   {
     "id": 21012,
     "Key": "of Fervor",
-    "enUS": "of Fervor *** ",
+    "enUS": "of Fervor ###",
     "zhTW": "白熱之",
     "deDE": "des Eifers",
     "esES": "de fervor",

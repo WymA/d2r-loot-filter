@@ -1362,7 +1362,7 @@
   {
     "id": 20519,
     "Key": "Runeword13",
-    "enUS": "Call to Arms",
+    "enUS": "Call to Arms\n[MAX:260ED/6/6BO/4]",
     "zhTW": "戰爭召喚",
     "deDE": "Ruf zu den Waffen",
     "esES": "Llamada a las armas",
@@ -1821,7 +1821,7 @@
   {
     "id": 20547,
     "Key": "Runeword41",
-    "enUS": "Fortitude",
+    "enUS": "Fortitude\n[MAX:30Res/1.5LifeLvl]",
     "zhTW": "剛毅",
     "deDE": "Stärke",
     "esES": "Fortaleza",
@@ -1991,7 +1991,7 @@
   {
     "id": 20557,
     "Key": "Runeword51",
-    "enUS": "Heart of the Oak",
+    "enUS": "Heart of the Oak\n[MAX:40Res]",
     "zhTW": "橡樹之心",
     "deDE": "Herz der Eiche",
     "esES": "Corazón de roble",
@@ -2178,7 +2178,7 @@
   {
     "id": 20568,
     "Key": "Runeword62",
-    "enUS": "Insight",
+    "enUS": "Insight\n[MAX:260ED/250AR/6CS]",
     "zhTW": "靈光",
     "deDE": "Einsicht",
     "esES": "Perspicacia",
@@ -3317,7 +3317,7 @@
   {
     "id": 20635,
     "Key": "Runeword130",
-    "enUS": "Spirit",
+    "enUS": "Spirit\n[MAX:8MA/35FCR/112Mana]",
     "zhTW": "精神",
     "deDE": "Geist",
     "esES": "Espíritu",

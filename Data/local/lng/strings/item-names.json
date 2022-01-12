@@ -1209,7 +1209,7 @@
   {
     "id": 1993,
     "Key": "wsp",
-    "enUS": "War Scepter",
+    "enUS": "[X] War Scepter (N=4s5s)",
     "zhTW": "征戰權杖",
     "deDE": "[ns]Kriegsszepter",
     "esES": "[ms]Cetro de guerra",
@@ -4048,7 +4048,7 @@
   {
     "id": 2163,
     "Key": "9ws",
-    "enUS": "Divine Scepter",
+    "enUS": "[X] Divine Scepter (N=4s5s)",
     "zhTW": "聖恩權杖",
     "deDE": "[ns]göttliches Szepter",
     "esES": "[ms]Cetro divino",
@@ -8808,7 +8808,7 @@
   {
     "id": 2574,
     "Key": "The Gnasher",
-    "enUS": "[MAX:70ED]\nThe Gnasher", //Neily
+    "enUS": "[MAX:70ED]\nThe Gnasher",
     "zhTW": "[MAX:70ED]\n噬咬者",
     "deDE": "der Knirscher",
     "esES": "La despedazadora",
@@ -8825,7 +8825,7 @@
   {
     "id": 2575,
     "Key": "Deathspade",
-    "enUS": "[MAX:70ED]\nDeathspade", //Neily
+    "enUS": "[MAX:70ED]\nDeathspade",
     "zhTW": "[MAX:70ED]\n死亡之鏟",
     "deDE": "Todesspaten",
     "esES": "Pica de la muerte",
@@ -8842,7 +8842,7 @@
   {
     "id": 2576,
     "Key": "Bladebone",
-    "enUS": "[MAX:50ED]\nBladebone", //Neily
+    "enUS": "[MAX:50ED]\nBladebone",
     "zhTW": "[MAX:50ED]\n肩胛骨",
     "deDE": "Klingenknochen",
     "esES": "Filo óseo",
@@ -8859,7 +8859,7 @@
   {
     "id": 2577,
     "Key": "Mindrend",
-    "enUS": "[MAX:100ED/100AR/1-15LD]\nSkull Splitter", //Neily
+    "enUS": "[MAX:100ED/100AR/1-15LD]\nSkull Splitter",
     "zhTW": "[MAX:100ED/100AR/1-15LD]\n劈顱斧",
     "deDE": "Schädelspalter",
     "esES": "Partecalaveras",
@@ -13126,7 +13126,7 @@
   {
     "id": 20218,
     "Key": "7ws",
-    "enUS": "Caduceus |S|", 
+    "enUS": "[X] Caduceus |S|(N=4s5s)", 
     "zhTW": "神使權杖",
     "deDE": "[ms]Schlangenstab",
     "esES": "[ms]Caduceo",
@@ -14027,7 +14027,7 @@
   {
     "id": 20271,
     "Key": "6lb",
-    "enUS": "Shadow Bow |S|", 
+    "enUS": "Shadow Bow |S|(N=4sEth)", 
     "zhTW": "暗影弓",
     "deDE": "[ms]Schattenbogen",
     "esES": "[ms]Arco sombrío",
@@ -14044,7 +14044,7 @@
   {
     "id": 20272,
     "Key": "6cb",
-    "enUS": "Great Bow |S|", 
+    "enUS": "Great Bow |S|(N=4sEth)", 
     "zhTW": "巨弓",
     "deDE": "[ms]Langbogen",
     "esES": "[ms]Gran arco",
@@ -14061,7 +14061,7 @@
   {
     "id": 20273,
     "Key": "6s7",
-    "enUS": "Diamond Bow |S|", 
+    "enUS": "Diamond Bow |S|(N=4sEth)", 
     "zhTW": "鑽石弓",
     "deDE": "[ms]Diamantbogen",
     "esES": "[ms]Arco de diamante",
@@ -14724,7 +14724,7 @@
   {
     "id": 20312,
     "Key": "amb",
-    "enUS": "Matriarchal Bow |S|", 
+    "enUS": "Matriarchal Bow |S|(N=4s)", 
     "zhTW": "女傑之弓",
     "deDE": "[ms]Matriarchenbogen",
     "esES": "[ms]Arco matriarcal",
@@ -14741,7 +14741,7 @@
   {
     "id": 20313,
     "Key": "amc",
-    "enUS": "[X] Grand Matron Bow |S|", 
+    "enUS": "[X] Grand Matron Bow |S|(N=4s)", 
     "zhTW": "主母之弓",
     "deDE": "[ms]Großer Matronenbogen",
     "esES": "[ms]Arco de la gran matrona",
