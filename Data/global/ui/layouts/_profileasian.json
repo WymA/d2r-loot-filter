@@ -1,0 +1,14 @@
+{
+    // Base (parent) profile.
+    "basedOn": "HD",
+    "HugeFontSize": 70,
+    "ExtraLargeFontSize": 42,
+    "XLargeFontSize": 40,
+    "LargeFontSize": 38,
+    "XMediumLargeFontSize": 36,
+    "MediumLargeFontSize": 34,
+    "XMediumFontSize": 32,
+    "MediumFontSize": 28,
+    "SmallFontSize": 28,
+    "TooltipFontSize": 34
+}
